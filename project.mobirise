@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "miravalor.nl",
+    "name": "miravalor",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -25,7 +25,10 @@
     "uniqCompNum": 6,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/faviconmiravlor-128x126.png",
+    "noImageResize": "",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {

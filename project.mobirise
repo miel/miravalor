@@ -76,7 +76,7 @@
             "showButtons": false
           },
           "title": "BUILDING VALUE",
-          "text": "How do private equity investors create value?&nbsp;<br>What are entrepreneurs looking for in a financial partner?<br>Need to bridge the gap between entrepreneurs and investors?",
+          "text": "How do private equity investors create value?&nbsp;<br>What are entrepreneurs looking for in a financial partner?<br>Need to bridge the gap between entrepreneurs and investors?<br>Let us know. We can help.",
           "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>"
         },
         {
@@ -110,9 +110,9 @@
           "title": "CONTACT US",
           "subtitle": "Don't hesitate to reach out. We like to hear from you.",
           "form": {
-            "action": "miel@live.com",
+            "action": "emiel@miravalor.nl",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "We'll be in touch soon!"
             },
             "fields": {
               "email": {
@@ -169,7 +169,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#2969b0!important"
+              "color": "#a38f84!important"
             }
           },
           "_tags": [
